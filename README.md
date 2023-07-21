@@ -8,10 +8,6 @@ This repository is used to practice and understand more about branching on GitHu
 # data di branch master
 ![pic 4a](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/e18e75cb-cd07-497b-adfc-344e5ed2b1d4)
 
-# data di branch development
-![pic 4b](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/96f82cb1-dba9-4db8-9991-21005a294f01)
-
-
 # data di branch featureA
 ![pic 5](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/72aa1427-1bf1-4fca-a053-e3deebaba441)
 
@@ -25,3 +21,9 @@ This repository is used to practice and understand more about branching on GitHu
 
 
 # data di branch development setelah selesai dilakukan merge solve conflik
+![pic 4b](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/96f82cb1-dba9-4db8-9991-21005a294f01)
+
+# networking hasil branching and merge
+![pic 3](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/c9973ad7-49ee-46e4-8ab2-1ddf8d847b50)
+
+
