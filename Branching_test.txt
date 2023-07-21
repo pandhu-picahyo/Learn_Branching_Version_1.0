@@ -1,1 +1,2 @@
 data ini dari folder remote
+ini adalah data dari clone
