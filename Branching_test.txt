@@ -4,3 +4,4 @@ branch development, ini adalah data edit di remote untuk branch development
 ini berada di folder clone branch master meskipun sudah ambil data dari branch development
 ini berada di folder remote, pull dari master branch
 data sekarang akan di push ke development branch
+data ada di clone, data di push ke brach feature B bukan branch feature A
