@@ -1,3 +1,4 @@
 data ini dari folder remote
 ini adalah data dari clone
 branch development, ini adalah data edit di remote untuk branch development
+ini berada di folder clone branch master meskipun sudah ambil data dari branch development
