@@ -24,7 +24,9 @@ This repository is used to practice and understand more about branching on GitHu
 ![pic 4b](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/96f82cb1-dba9-4db8-9991-21005a294f01)
 
 # networking hasil branching and merge
-![pic 3](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/c9973ad7-49ee-46e4-8ab2-1ddf8d847b50)
+![pic 3](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/d9f1df3d-d040-4a31-93fb-6f7e9c514394)
+
+![pic 8](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/ebe506f3-c99c-43c8-8c36-4d82e1616b71)
 
 # flowchart menentukan bilangan prima diambil dari hariaspriyono.com
 ![DeretBilanganPrima_Flowchart](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/fc049f79-dec1-4286-869e-b39317c70843)
