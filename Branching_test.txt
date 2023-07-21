@@ -5,3 +5,5 @@ ini berada di folder clone branch master meskipun sudah ambil data dari branch d
 ini berada di folder remote, pull dari master branch
 data sekarang akan di push ke development branch
 data ada di clone, data di push ke brach feature B bukan branch feature A
+dari folder remote, data di branch featureA
+data sudah di merge di branch development
