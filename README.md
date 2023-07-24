@@ -28,12 +28,12 @@ This repository is used to practice and understand more about branching on GitHu
 
 ![pic 8](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/ebe506f3-c99c-43c8-8c36-4d82e1616b71)
 
-# flowchart menentukan bilangan prima diambil dari hariaspriyono.com
-![DeretBilanganPrima_Flowchart](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/fc049f79-dec1-4286-869e-b39317c70843)
+# flowchart menentukan bilangan prima
+![1 bil prima](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/6b57328d-1f2d-4158-b706-721e0c80d811)
 
-# flowchart menentukan kelipatan 7 diambil dari ria anggraini wijaya blogspot
-![kelipatan 7](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/ef1e85b6-04d0-4015-a6f1-9845c8a27de1)
+# flowchart menentukan kelipatan 7 
+![2 kelipat 7](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/b0157737-542a-494a-b843-55ab43d6b66f)
 
-# flowchart menentukan luas trapesium diambil dari ratih wibisono wordpress
-![trapesium](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/f7598c49-796d-499c-bb8b-9cdfc4c29333)
+# flowchart menentukan luas trapesium 
+![3 luas trapes](https://github.com/pandhu-picahyo/Learn_Branching_Version_1.0/assets/117777807/9e80feae-84d5-458d-87ac-1cde3864955f)
 
